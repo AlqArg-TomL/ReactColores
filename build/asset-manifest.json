@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactColores/static/css/main.e8c30c09.css",
+    "main.js": "/ReactColores/static/js/main.837e2c51.js",
+    "index.html": "/ReactColores/index.html",
+    "main.e8c30c09.css.map": "/ReactColores/static/css/main.e8c30c09.css.map",
+    "main.837e2c51.js.map": "/ReactColores/static/js/main.837e2c51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c30c09.css",
+    "static/js/main.837e2c51.js"
+  ]
+}
