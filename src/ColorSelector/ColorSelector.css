@@ -1,0 +1,47 @@
+.ColorSelector{
+    background-color: #ffff007a;
+    padding: 15px;
+    display: flex;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    margin: auto;
+    margin-right: 15px;
+    margin-left: 15px
+}
+
+.ColorSelector p{
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ColorSelector div{
+    flex-grow: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px dotted gray;
+}
+
+
+.amarillo{
+    background-color: rgb(206, 206, 37);
+}
+.azul{
+    background-color: rgb(51, 51, 204);
+
+}
+.rojo{
+    background-color: rgb(204, 48, 48);
+
+}
+.verde{
+    background-color: rgb(42, 204, 42);
+
+}

@@ -1,0 +1,29 @@
+.Color{
+    border: 2px solid black;
+    margin: 25px;
+    display: inline-block;
+    width: 100px;
+    padding: 0;
+}
+
+.Color p{
+    padding: 15px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.amarillo{
+    background-color: rgb(206, 206, 37);
+}
+.azul{
+    background-color: rgb(51, 51, 204);
+
+}
+.rojo{
+    background-color: rgb(204, 48, 48);
+
+}
+.verde{
+    background-color: rgb(42, 204, 42);
+
+}

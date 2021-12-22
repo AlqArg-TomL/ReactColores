@@ -1,0 +1,9 @@
+.Parent{
+  display: flex;
+  justify-content: center;
+  transform: translateY(20vh);
+}
+
+body{
+  background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+}
